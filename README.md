@@ -1,7 +1,7 @@
 <head>
     <meta property="og:title" content="Your Repository Title"/>
     <meta property="og:description" content="Your Repository Description"/>
-    <meta property="og:image" content="URL to Your Repository Image"/>
+    <meta property="og:image" content="https://pixabay.com/photos/snow-winter-mountains-house-home-3373432/">
     <meta property="og:url" content="URL to Your Repository"/>
 </head>
 
