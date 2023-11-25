@@ -1,5 +1,5 @@
 # Winter Wonderland
-![demo](Screenshot_20231125-182133-387.png)
+![demo](output.png)
 
 
 👇Click here to download image used in webpage</br>
