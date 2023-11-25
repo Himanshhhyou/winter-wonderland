@@ -7,7 +7,7 @@
 # Source Code
 You can simply copy or download the html and css code.
 ## HTML
-** [index.html](index.html) **
+**[index.html](index.html)**
 
 ```html
 <!DOCTYPE html>
@@ -64,7 +64,7 @@ You can simply copy or download the html and css code.
 </html>
 ```
 ## CSS
-* [style.css](style.css) *
+**[style.css](style.css)**
 
 ``` css
     /* Resetting default margin and padding, setting font, and background color */
