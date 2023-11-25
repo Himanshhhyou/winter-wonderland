@@ -5,6 +5,7 @@
 👇Click here to download image used in webpage</br>
 [Download image](https://pixabay.com/photos/snow-winter-mountains-house-home-3373432/)
 # Source Code
+You can simply copy or download the html and css code.
 ### [index.html](index.html)
 
 ```html
