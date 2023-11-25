@@ -6,7 +6,8 @@
 [Download image](https://pixabay.com/photos/snow-winter-mountains-house-home-3373432/)
 # Source Code
 You can simply copy or download the html and css code.
-### [index.html](index.html)
+## HTML
+#### [index.html](index.html)
 
 ```html
 <!DOCTYPE html>
@@ -62,7 +63,8 @@ You can simply copy or download the html and css code.
 
 </html>
 ```
-### [style.css](style.css)
+## CSS
+#### [style.css](style.css)
 
 ``` css
     /* Resetting default margin and padding, setting font, and background color */
