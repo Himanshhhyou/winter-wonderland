@@ -2,7 +2,7 @@
 ![demo](output.png)
 
 
-👇Click here to download image used in webpage</br>
+👇Click here to download the image used in webpage</br>
 [Download image](https://pixabay.com/photos/snow-winter-mountains-house-home-3373432/)
 # Source Code
 You can simply copy or download the html and css code.
