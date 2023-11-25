@@ -1,5 +1,60 @@
 # Source Code
 ### [index.html](index.html)
+
+```html
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <!-- Metadata Section: Character set, viewport, and compatibility -->
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+  <!-- Title of the webpage -->
+  <title>Forest</title>
+
+  <!-- External Stylesheet for Font Awesome Icons -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+  <!-- External CSS -->
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+  <!-- Header Section: Logo, Navigation, and Search Bar -->
+  <header>
+    <div class="logo">
+      <h1>Logo</h1>
+    </div>
+    <nav>
+      <ul>
+        <!-- Navigation Links -->
+        <li><a href="#">Home</a></li>
+        <li><a href="#">Winter Activities</a></li>
+        <li><a href="#">Snowy Scenes</a></li>
+        <li><a href="#">Contact Us</a></li>
+      </ul>
+    </nav>
+    <!-- Search Bar in the Header -->
+    <div class="search-bar">
+      <form action="">
+        <input type="text" placeholder="Search here...">
+        <i class="fa fa-search"></i>
+      </form>
+    </div>
+  </header>
+
+  <!-- Home Section with Heading, Paragraph, and Button -->
+  <section class="home">
+    <h1>Winter Wonderland</h1>
+    <p>Experience the magic of winter with our enchanting snow-covered landscapes and exciting activities.</p>
+    <button>Explore Snow</button>
+  </section>
+</body>
+
+</html>
+```
 ### [style.css](style.css)
 
 ``` css
