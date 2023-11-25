@@ -71,8 +71,6 @@ You can simply copy or download the html and css code.
     body {
       margin: 0;
       padding: 0;
-      border: 0;
-      outline: 0;
       font-family: Arial, Helvetica, sans-serif;
       background: #f3f3f3;
     }
