@@ -1,4 +1,4 @@
-# <p style="color: #ff0000;">Winter Wonderland</p>
+# Winter Wonderland
 ![demo](output.png)
 
 
